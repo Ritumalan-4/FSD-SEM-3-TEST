@@ -1,0 +1,22 @@
+{
+  "name": "fsd-sem-3-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ritumalan-4/FSD-SEM-3-TEST.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Ritumalan-4/FSD-SEM-3-TEST/issues"
+  },
+  "homepage": "https://github.com/Ritumalan-4/FSD-SEM-3-TEST#readme"
+}
